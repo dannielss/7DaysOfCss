@@ -35,11 +35,11 @@ body {
 }
 
 @keyframes animate {
-  to {
+  from {
     transform: rotate(0)
   }
 
-  from {
+  to {
     transform: rotate(360deg);
   }
 }
